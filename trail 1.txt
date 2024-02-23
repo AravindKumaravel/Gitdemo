@@ -1,2 +1,4 @@
 let a = "Aravind";
 console.log(a);
+let b = "Gopal"
+console.log(b);
